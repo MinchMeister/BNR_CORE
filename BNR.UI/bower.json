@@ -4,7 +4,8 @@
   "dependencies": {
     "jquery": "3.2.1",
     "jquery-validation": "1.16.0",
-    "jquery-validation-unobtrusive": "3.2.6"
+    "jquery-validation-unobtrusive": "3.2.6",
+    "foundation-sites": "v6.4.0-rc2"
   },
   "resolutions": {
     "jquery": "3.2.1",
