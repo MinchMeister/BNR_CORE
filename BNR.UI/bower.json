@@ -5,10 +5,11 @@
     "jquery": "3.2.1",
     "jquery-validation": "1.16.0",
     "jquery-validation-unobtrusive": "3.2.6",
-    "foundation-sites": "v6.4.0-rc2"
+    "foundation-sites": "v6.4.0-rc2",
+    "motion-ui": "v1.2.2"
   },
   "resolutions": {
-    "jquery": "3.2.1",
+    "jquery": ">= 1.7.2",
     "jquery-validation": "1.16.0"
   }
 }
