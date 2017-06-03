@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BNR.UI.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         public IActionResult Index()
         {

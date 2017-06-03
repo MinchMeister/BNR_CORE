@@ -3,6 +3,7 @@
     "outputFileName": "wwwroot/css/site.min.css",
     "inputFiles": [
       "wwwroot/lib/foundation-sites/dist/css/foundation.css",
+      "wwwroot/lib/motion-ui/dist/motion-ui.css",
       "wwwroot/css/site.css"
     ]
   },
@@ -10,6 +11,7 @@
     "outputFileName": "wwwroot/js/site.min.js",
     "inputFiles": [
       "wwwroot/lib/foundation-sites/dist/js/foundation.js",
+      "wwwroot/lib/motion-ui/dist/motion-ui.js",
       "wwwroot/js/site.js"
     ],
     "minify": {
